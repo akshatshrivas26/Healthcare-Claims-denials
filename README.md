@@ -53,6 +53,13 @@ SQL scripts used for:
 
 → See: `/sql/claim_denial_model.sql`
 
+## Project Documentation
+
+- [BRD – Business Requirements Document](documents/BRD_Medical_Claim_Denial.pdf)
+- [FRD – Functional Requirements Document](documents/FRD_Medical_Claim_Denial.pdf)
+- [Executive Overview Dashboard](images/overview_dashboard.png)
+- [Denial Deep Dive Dashboard](images/denial_deep_dive.png)
+
 
 ---
 Project by **Akshat Shrivas** – Business Analyst / RCM / Ops.
